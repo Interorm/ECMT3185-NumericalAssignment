@@ -1,0 +1,16 @@
+Problems in Data:
+- Indexes make jump from 689 to 833
+- MSSubClass should be categorical not int
+- Alley var missing for 95%, maybe change to alley access true/false
+- Only one property missing utilities - remove var
+- Neighbourhood!!!
+- Yearbuilt: Ordinal assumption?
+- YearBuilt + YearRemodAdd = Is renovated true/false
+- MasVnrType missing for 60%, 0 in MasVnrArea
+- Aggregate Basement Data? -> Generally Aggregation?
+
+Make Ordinal
+- ExterCond 
+- ExterQual
+- BsmtCond
+- BsmtQual
