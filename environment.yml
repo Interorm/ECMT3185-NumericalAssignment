@@ -1,0 +1,17 @@
+name: EconML_NumAs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - ipykernel
+  - pandas
+  - numpy
+  - tqdm
+  - scikit-learn
+  - statsmodels
+  - scipy
+  - matplotlib
+  - seaborn
+prefix: C:\Users\karli\anaconda3\envs\EconML_NumAs
