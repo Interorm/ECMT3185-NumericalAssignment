@@ -18,7 +18,4 @@ venv/
 .vscode/
 
 # Project-Indiv
-assignment_details/Numerical Assignment.pdf
-assignment_details/Sample_submission.csv
-
-analysis/Lasso/models/Bootstrapped_Lasso.sav
+assignment_details/
